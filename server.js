@@ -7,3 +7,4 @@ app.get('/usuarios', (req,res) =>{
  res.send('ok.. deu bom')
 
 })
+app.listen(3000)
